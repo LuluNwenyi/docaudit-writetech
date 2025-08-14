@@ -127,7 +127,6 @@ I've split my recommendations into the following categories:
 2. Adopt a doc linter (i.e. Vale) and establish a style guide (i.e., headings, acronyms, brand voice).
 3. Prepare for Docusaurus doc versioning once v1 is tagged. 
 4. Add search metadata (i.e., front-matter keywords) to all high-traffic pages.
-
 ---
 
 # Recommended Structure
